@@ -1,0 +1,512 @@
+Date: Mon, 4 May 2026 17:17:05 +0500 (UZT)
+Message-ID: <1783534923.1637.1777897025952@atl-confluence>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_1636_1366236154.1777897025951"
+
+------=_Part_1636_1366236154.1777897025951
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Java =D0=BD=D0=B0=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=
+=B8=D0=B5</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Java =D0=BD=D0=B0=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=
+=D0=B5</h1>
+    <div class=3D"Section1">
+        <p>=D0=92 =D0=B4=D0=B0=D0=BD=D0=BD=D0=BE=D0=BC =D0=B4=D0=BE=D0=BA=
+=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B5 =D0=BE=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=
+=D1=8B =D0=BC=D0=B0=D1=82=D1=80=D0=B8=D1=86=D0=B0 hard =D1=81=D0=BA=D0=B8=
+=D0=BB=D0=BE=D0=B2 =D0=B4=D0=BB=D1=8F Java =D1=80=D0=B0=D0=B7=D1=80=D0=B0=
+=D0=B1=D0=BE=D1=82=D1=87=D0=B8=D0=BA=D0=BE=D0=B2. =D0=9D=D0=B0=D1=81=D1=82=
+=D0=BE=D1=8F=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE =D1=80=D0=B5=D0=BA=D0=BE=
+=D0=BC=D0=B5=D0=BD=D0=B4=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B8=D1=81=D0=BF=
+=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=B4=D0=B0=D0=BD=
+=D0=BD=D1=83=D1=8E =D0=BC=D0=B0=D1=82=D1=80=D0=B8=D1=86=D1=83 =D0=B4=D0=BB=
+=D1=8F =D0=BE=D1=86=D0=B5=D0=BD=D0=BA=D0=B8 =D0=B3=D1=80=D0=B5=D0=B9=D0=B4=
+=D0=BE=D0=B2 =D1=81=D0=BE=D1=82=D1=80=D1=83=D0=B4=D0=BD=D0=B8=D0=BA=D0=BE=
+=D0=B2 =D0=B8 =D0=B2=D0=BD=D0=B5=D1=88=D0=BD=D0=B8=D1=85 =D0=BA=D0=B0=D0=BD=
+=D0=B4=D0=B8=D0=B4=D0=B0=D1=82=D0=BE=D0=B2.&nbsp;</p>
+<h2 id=3D"Java=D0=BD=D0=B0=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=
+=D0=B5-JuniorDeveloper">Junior Developer</h2>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th scope=3D"col" class=3D"confluenceTh">Java</th>
+<th scope=3D"col" class=3D"confluenceTh">Basics</th>
+<th scope=3D"col" class=3D"confluenceTh">OOP</th>
+<th scope=3D"col" class=3D"confluenceTh">Spring Framework</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p class=3D"p1">Type Fundamentals</p><p class=3D=
+"p1">Primitive, Reference Types, Optional</p><p class=3D"p1">Constants, sta=
+tic and enums</p><p class=3D"p1">Methods, Parameters, Properties</p><p clas=
+s=3D"p1">Chars, Strings, and Working with Text</p><p class=3D"p1">Type conv=
+ersion. Boxing, unboxing</p><p class=3D"p1">Interfaces. Standard interfaces=
+</p><p class=3D"p1">Exception handling and basic exceptions</p><p class=3D"=
+p1">Manage the object life cycle</p><p class=3D"p1">Cycles organizations</p=
+></td>
+<td class=3D"confluenceTd"><p class=3D"p1">Data structures: Array, Linked L=
+ist,</p><p class=3D"p1">Queue, Stack, Hash Table, Tree, etc</p><p class=3D"=
+p1">Data structures: When to use what.</p><p class=3D"p1">Understand comple=
+xity of different</p><p class=3D"p1">operations</p><p class=3D"p1">Algorith=
+ms: Recursion</p><p class=3D"p1">Algorithms: Basic sorting / search</p><p c=
+lass=3D"p1">algorithms</p></td>
+<td class=3D"confluenceTd"><p class=3D"p1">Object vs Class</p><p class=3D"p=
+1">OOP fundamentals</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li><p class=3D"p1">What is Spring Framework, problems it solves</p></li>
+<li><p class=3D"p1">Inversion of Control (IoC)</p></li>
+<li><p class=3D"p1">Dependency Injection (DI): constructor vs setter</p></l=
+i>
+<li><p class=3D"p1">Spring Bean lifecycle</p></li>
+<li><p class=3D"p1">ApplicationContext vs BeanFactory</p></li>
+<li><p class=3D"p1">@Component, @Service, @Repository, @Controller</p></li>
+<li><p class=3D"p1">@Autowired, @Qualifier, @Primary</p></li>
+</ul>
+<ul>
+<li><p class=3D"p1">What is Spring Boot, auto-configuration</p></li>
+<li><p class=3D"p1">Spring Initializr</p></li>
+<li><p class=3D"p1">application.properties / application.yml</p></li>
+<li><p class=3D"p1">@SpringBootApplication</p></li>
+<li><p class=3D"p1">Embedded servers (Tomcat)</p></li>
+</ul>
+<ul>
+<li><p class=3D"p1">Java-based configuration (@Configuration, @Bean)</p></l=
+i>
+<li><p class=3D"p1">Profiles (@Profile)</p></li>
+<li><p class=3D"p1">Externalized configuration</p></li>
+<li><p class=3D"p1">REST basics</p></li>
+<li><p class=3D"p1">@RestController, @RequestMapping</p></li>
+<li><p class=3D"p1">@GetMapping / @PostMapping</p></li>
+<li><p class=3D"p1">@PathVariable, @RequestParam, @RequestBody</p></li>
+<li><p class=3D"p1">ResponseEntity</p></li>
+<li><p class=3D"p1">Basic exception handling (@ExceptionHandler)</p></li>
+<li><p class=3D"p1">Spring Data JPA basics</p></li>
+<li><p class=3D"p1">CrudRepository / JpaRepository</p></li>
+<li><p class=3D"p1">Entity mapping (@Entity, @Id)</p></li>
+<li><p class=3D"p1">Simple relationships (OneToMany, ManyToOne)</p></li>
+</ul><p><br></p>
+<ul>
+<li><p class=3D"p1">@SpringBootTest</p></li>
+<li><p class=3D"p1">@WebMvcTest</p></li>
+<li><p class=3D"p1">Basic unit tests with JUnit</p></li>
+<li><p class=3D"p1">Mocking with Mockito</p></li>
+<li><p class=3D"p1">What is Spring Security</p></li>
+<li><p class=3D"p1">Basic authentication</p></li>
+<li><p class=3D"p1">Password encoding</p></li>
+</ul><p><br></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"Java=D0=BD=D0=B0=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=
+=D0=B5-MiddleDeveloper">Middle Developer</h2>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th scope=3D"col" class=3D"confluenceTh">Java</th>
+<th scope=3D"col" class=3D"confluenceTh"><p class=3D"p1">Basics (Algorithms=
+ or Data</p><p class=3D"p1">structures)</p></th>
+<th scope=3D"col" class=3D"confluenceTh"><p class=3D"p1">Design &amp; Archi=
+tecture (OOP) data</p></th>
+<th scope=3D"col" class=3D"confluenceTh"><p class=3D"p1">Data Access (Query=
+ and manipulate)</p></th>
+<th scope=3D"col" class=3D"confluenceTh">Spring&nbsp;<p class=3D"p1">Framew=
+ork</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p class=3D"p1">Type Fundamentals</p><p class=3D=
+"p1">Primitive, Reference Types, Optional</p><p class=3D"p1">Constants, sta=
+tic and enums</p><p class=3D"p1">Methods, Parameters, Properties</p><p clas=
+s=3D"p1">Chars, Strings, and Working with Text</p><p class=3D"p1">Type conv=
+ersion. Boxing, unboxing</p><p class=3D"p1">Interfaces. Standard interfaces=
+</p><p class=3D"p1">Exception handling and basic exceptions</p><p class=3D"=
+p1">Manage the object life cycle</p><p class=3D"p1">Cycles organizations</p=
+><p class=3D"p1">Reflection</p><p class=3D"p1">JDK utilities</p><p class=3D=
+"p1">JVM: Class loaders, Reflection,</p><p class=3D"p1">JARs/Modules, Memor=
+y, debugging (remote</p><p class=3D"p1">debugging), jvm properties</p></td>
+<td class=3D"confluenceTd"><p class=3D"p1">Data structures: Array, Linked L=
+ist,</p><p class=3D"p1">Queue, Stack, Hash Table, Tree, etc</p><p class=3D"=
+p1">Data structures: When to use what.</p><p class=3D"p1">Understand comple=
+xity of different</p><p class=3D"p1">operations</p><p class=3D"p1">Algorith=
+ms: Recursion</p><p class=3D"p1">Algorithms: Basic sorting / search</p><p c=
+lass=3D"p1">algorithms</p><p class=3D"p1">Algorithms: Divide and Conquer</p=
+></td>
+<td class=3D"confluenceTd"><p class=3D"p1">Object vs Class</p><p class=3D"p=
+1">OOP fundamentals</p><p class=3D"p1">Code reuse</p><p class=3D"p1">Replac=
+e conditions with&nbsp;polymorphism</p></td>
+<td class=3D"confluenceTd"><p class=3D"p1">Perform I/O operations</p><p cla=
+ss=3D"p1">Consume data (through http, etc)</p><p class=3D"p1">Serialize and=
+ deserialize data</p><p class=3D"p1">Store data in and retrieve data from&n=
+bsp;collections</p><p class=3D"p1">Query and manipulate data, objects by&nb=
+sp;using JDBC (Spring JDBC template or&nbsp;Hibernate by default)</p><p cla=
+ss=3D"p1">Read data by using SQL</p><p class=3D"p1">Transaction management&=
+nbsp;</p><p class=3D"p1">Propagation &amp; isolation levels</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li><p class=3D"p1">Bean scopes</p></li>
+<li><p class=3D"p1">@Lazy</p></li>
+<li><p class=3D"p1">@PostConstruct / @PreDestroy</p></li>
+<li><p class=3D"p1">Profiles and environment abstraction</p></li>
+<li><p class=3D"p1">Conditional beans (@Conditional, @ConditionalOnProperty=
+)</p></li>
+<li><p class=3D"p1">AOP concepts and use cases</p></li>
+<li><p class=3D"p1">@Aspect, @Around, @Before</p></li>
+<li><p class=3D"p1">Auto-configuration internals</p></li>
+<li><p class=3D"p1">Custom starters</p></li>
+<li><p class=3D"p1">Actuator (health, metrics)</p></li>
+<li><p class=3D"p1">Custom configuration properties</p></li>
+<li><p class=3D"p1">Logging configuration</p></li>
+<li><p class=3D"p1">REST API design best practices</p></li>
+<li><p class=3D"p1">Validation (@Valid, @Validated)</p></li>
+<li><p class=3D"p1">Global exception handling (@ControllerAdvice)</p></li>
+<li><p class=3D"p1">Pagination &amp; sorting</p></li>
+<li><p class=3D"p1">File upload/download</p></li>
+<li><p class=3D"p1">API versioning strategies</p></li>
+<li><p class=3D"p1">HATEOAS (basic understanding)</p></li>
+</ul><p class=3D"p1"><br></p>
+<ul>
+<li><p class=3D"p1">Transaction management (@Transactional)</p></li>
+<li><p class=3D"p1">Propagation &amp; isolation levels</p></li>
+<li><p class=3D"p1">Lazy vs Eager loading</p></li>
+<li><p class=3D"p1">JPQL vs Criteria API</p></li>
+<li><p class=3D"p1">Native queries</p></li>
+<li><p class=3D"p1">Database migrations (Flyway / Liquibase)</p></li>
+</ul><p>&nbsp;Authentication vs Authorization</p>
+<ul>
+<li><p class=3D"p1">JWT-based security</p></li>
+<li><p class=3D"p1">OAuth2 basics</p></li>
+<li><p class=3D"p1">Method-level security (@PreAuthorize)</p></li>
+<li><p class=3D"p1">Custom UserDetailsService</p></li>
+<li><p class=3D"p1">Security filters</p></li>
+</ul><p><br></p>
+<ul>
+<li><p class=3D"p1">Unit vs Integration testing</p></li>
+<li><p class=3D"p1">Testcontainers (intro)</p></li>
+<li><p class=3D"p1">MockMvc</p></li>
+<li><p class=3D"p1">Database testing (H2, Testcontainers)</p></li>
+<li><p class=3D"p1">Security testing</p></li>
+</ul><p class=3D"p1"><br></p>
+<ul>
+<li><p class=3D"p1">Caching (@Cacheable, Redis)</p></li>
+<li><p class=3D"p1">Async processing (@Async)</p></li>
+<li><p class=3D"p1">Scheduling (@Scheduled)</p></li>
+<li><p class=3D"p1">Connection pooling (HikariCP)</p></li>
+</ul><p class=3D"p1"><br></p>
+<ul>
+<li><p class=3D"p1">Spring Events</p></li>
+<li><p class=3D"p1">Intro to Kafka / RabbitMQ</p></li>
+<li><p class=3D"p1">REST client (RestTemplate, WebClient basics)</p></li>
+</ul><p><br></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"Java=D0=BD=D0=B0=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=
+=D0=B5-SeniorDeveloper">Senior Developer</h2>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th scope=3D"col" class=3D"confluenceTh"><br></th>
+<th scope=3D"col" class=3D"confluenceTh">Java</th>
+<th scope=3D"col" class=3D"confluenceTh">Design &amp; Architecture</th>
+<th scope=3D"col" class=3D"confluenceTh"><p class=3D"p1">Data Integration</=
+p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"Java=D0=BD=D0=B0=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=
+=D0=B5-ChapterLead">Chapter Lead</h2>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th scope=3D"col" class=3D"confluenceTh"><br></th>
+<th scope=3D"col" class=3D"confluenceTh"><br></th>
+<th scope=3D"col" class=3D"confluenceTh"><br></th>
+<th scope=3D"col" class=3D"confluenceTh"><br></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_1636_1366236154.1777897025951--
