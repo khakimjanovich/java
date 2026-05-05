@@ -1,4 +1,4 @@
-package uz.asakabank.springbootskilllab;
+package uz.khakimjanovich.springbootskilllab;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

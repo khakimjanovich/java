@@ -8,7 +8,7 @@
 		<version>4.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>uz.asakabank</groupId>
+	<groupId>uz.khakimjanovich</groupId>
 	<artifactId>spring-boot-skill-lab</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-skill-lab</name>

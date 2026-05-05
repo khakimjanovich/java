@@ -1,4 +1,4 @@
-package uz.asakabank.springbootskilllab;
+package uz.khakimjanovich.springbootskilllab;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
