@@ -1,4 +1,4 @@
-package uz.asakabank;
+package uz.khakimjanovich;
 
 
 public class B_Overview {
@@ -57,6 +57,16 @@ public class B_Overview {
 
         String voidKeyword = "The keyword void simply\n" +
                 "tells the compiler that main( ) does not return a value. ";
+
+
+        String generalFormOfAVariableDeclaration = "type var-name, type - specifies the type of a variable being \n" +
+                "declared, and var-name is the name of the variable";
+
+
+        String simpleFormOfTheForLoop = "for(initialization; condition; iteration) statement; \n" +
+                "initialization = sets a loop control, condition = tests the loop control variable to an initial value \n" +
+                "if the outcome is false the loop terminanes, else continues to iterate \n " +
+                "iteration  = determines how the loop control variable is changed each time loop iterates";
 
 
     }

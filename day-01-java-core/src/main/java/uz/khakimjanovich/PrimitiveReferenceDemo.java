@@ -1,4 +1,4 @@
-package uz.asakabank;
+package uz.khakimjanovich;
 
 /**
  * Variables in java are classified into `primitives` and `reference variables`
