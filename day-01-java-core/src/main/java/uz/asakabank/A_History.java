@@ -1,7 +1,7 @@
 package uz.asakabank;
 
 
-public class History {
+public class A_History {
     public static void main(String[] args) {
         String agility = "\"Agility\" in the context of Java development refers to the capability of Java teams to " +
                 "respond rapidly to changing business needs, technological shifts, and user feedback through flexible, " +
